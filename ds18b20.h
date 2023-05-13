@@ -1,7 +1,7 @@
 
 #ifndef	_DS18B20_H
 #define	_DS18B20_H
-//	2018/09/09
+//	2018/09/10
 
 
 #include "onewire.h"
